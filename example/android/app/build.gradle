@@ -60,6 +60,7 @@ android {
             multiDexEnabled true
         }	        
     }
+    namespace 'com.github.florent37.example'
 }
 
 flutter {
